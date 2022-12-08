@@ -66,4 +66,5 @@ app.listen(port, () => {
   console.log(`Luxury Living listening on port ${port}`)
 })
 
+module.exports = app
 
